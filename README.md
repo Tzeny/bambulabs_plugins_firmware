@@ -29,7 +29,9 @@ They have different file sized compared to my own, but I think it is important t
 
 ## The cause of all this
 
-Rosmanngroup's Wiki documents the problems with Bambu's latest firmware which is basically anti consumer: https://wiki.rossmanngroup.com/wiki/Bambu_Lab_Authorization_Control_System
+Rosmanngroup's Wiki documents the problems with Bambu's latest firmware which is basically anti consumer: https://wiki.rossmanngroup.com/wiki/Bambu_Lab_Authorization_Control_System .
+
+I also recommend this Reddit post explaining why you should care and what you can do about it: https://www.reddit.com/r/BambuLab/comments/1i3gq1t/why_you_should_care_about_bambu_labs_removing/ .
 
 # Contributing
 
